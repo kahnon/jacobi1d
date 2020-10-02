@@ -1,0 +1,5 @@
+build/
+*.swp
+*.dat
+CMakeCache.txt
+CMakeFiles/
